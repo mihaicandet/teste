@@ -1,11 +1,11 @@
 {
-    "name": "Terrabit Registrul Agricol",
+    "name": "Test",
     'version': '10.0.1.0.0',
-    "author": "Terrabit, Dorin Hongu",
+    "author": "Terrabit, Mihai Candet",
     "website": "www.terrabit.ro",
     "description": "",
     
     'application': True,
-    "active": False,
+    "active": True,
     "installable": True,
 }
