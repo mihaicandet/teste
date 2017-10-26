@@ -16,7 +16,7 @@ Features:
 
 
 
-    "data": [ 'views/asistenta_sociala_view.xml',
+    "data": [ 'views/fila_test_view.xml',
 
               'security/ir.model.access.csv'],
     'application': True,
