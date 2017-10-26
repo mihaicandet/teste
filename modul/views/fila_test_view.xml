@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <odoo>
     <data>
-        <menuitem name="Asistenta sociala" id="base.menu_asistenta_app" sequence="25"/>
+        <menuitem name="mihai" id="base.menu_asistenta_app" sequence="25"/>
         <menuitem name="Dosare" id="base.menu_asistenta_dosare" parent="base.menu_asistenta_app" sequence="25"/>
         <menuitem name="Reports" id="base.menu_asistenta_reports" parent="base.menu_asistenta_app" sequence="50"/>
         <menuitem name="Configurare" id="base.menu_asistenta_config" parent="base.menu_asistenta_app" sequence="900"/>
